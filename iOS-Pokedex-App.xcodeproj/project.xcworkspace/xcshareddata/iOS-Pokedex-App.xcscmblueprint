@@ -1,20 +1,28 @@
 {
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "31B36104B0C931F8E464050000352F38903CBB08",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "79CDA8793376CBE9DCF0A24101309B8B58307124" : 9223372036854775807,
-    "8CC55606C06156A26CB5E1C800842BB4C00C0B76" : 9223372036854775807
+    "8CC55606C06156A26CB5E1C800842BB4C00C0B76" : 9223372036854775807,
+    "31B36104B0C931F8E464050000352F38903CBB08" : 9223372036854775807,
+    "79CDA8793376CBE9DCF0A24101309B8B58307124" : 9223372036854775807
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4D6E01EE-EEB2-4400-92C9-A920479FF542",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "79CDA8793376CBE9DCF0A24101309B8B58307124" : "..",
-    "8CC55606C06156A26CB5E1C800842BB4C00C0B76" : "..\/.."
+    "8CC55606C06156A26CB5E1C800842BB4C00C0B76" : "..\/..",
+    "31B36104B0C931F8E464050000352F38903CBB08" : "iOS-Pokedex-App\/",
+    "79CDA8793376CBE9DCF0A24101309B8B58307124" : ".."
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "iOS-Pokedex-App",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
   "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iOS-Pokedex-App.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sdulaney\/iOS-Pokedex-App.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "31B36104B0C931F8E464050000352F38903CBB08"
+    },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sdulaney\/acm_hack_nights.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
